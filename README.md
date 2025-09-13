@@ -28,7 +28,7 @@ Type 2 or 2p for two-player
 -Simple and clean command-line board display
 
 📝 How to Play
-1. Choose the mode (1 / 1p or 2 / 2p).
+1. Choose the mode (1p or 2p).
 2. Players take turns entering positions 1-9 on the board:
 
 1 | 2 | 3
