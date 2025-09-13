@@ -17,24 +17,28 @@ python tic_tac_toe.py
 ```
 
 🎯 Features
-Play against another player 👥 (2-player mode)
-Play against the computer 🤖 (1-player mode)
+-Play against another player 👥 (2-player mode)
+-Play against the computer 🤖 (1-player mode)
 
-Flexible input:
+-Flexible input:
 Type 1 or 1p for single-player
 Type 2 or 2p for two-player
 
-Play multiple rounds: After each game, you can choose to play again
-Simple and clean command-line board display
+-Play multiple rounds: After each game, you can choose to play again
+-Simple and clean command-line board display
 
 📝 How to Play
 1. Choose the mode (1 / 1p or 2 / 2p).
 2. Players take turns entering positions 1-9 on the board:
+
 1 | 2 | 3
+
 4 | 5 | 6
+
 7 | 8 | 9
-3. The game announces the winner or a tie.
-4. After the game, you’ll be asked:
+
+4. The game announces the winner or a tie.
+5. After the game, you’ll be asked:
 "Do you want to play again? (y/n)"
 
 Requirements:
